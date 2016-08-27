@@ -20,6 +20,10 @@ bot.onerror = function(event) {
     log.error("Bot worker error: ", event.data);
 };
 
+app.get("/ping", function(req) {
+    return response.html("<h1>Working!</h1><p>" + Date.now() + "</p>");
+});
+
 app.post(config.get("telegram:callbackPath"), function(req) {
     const update = req.postParams;
     if (update !== null && Number.isInteger(update.update_id)) {
