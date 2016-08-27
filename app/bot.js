@@ -22,20 +22,23 @@ const onmessage = function(event) {
 
     try {
         if (update.message != null) {
-            processMessage(update.message);
+            processMessage(update.message.chat.id, update.message.text);
+
+        } else if (update.callback_query != null) {
+            bot.answerCallbackQuery(update.callback_query.id);
+            processMessage(update.callback_query.from.id, update.callback_query.data);
         }
     } catch (e) {
         log.error("Could not process update: ", e);
     }
 };
 
-const processMessage = function(message) {
-    if (typeof message.text != "string") {
-        bot.sendMessage(message.chat.id, "Sorry, I only support text messages \uD83D\uDE41");
+const processMessage = function(updateChatId, text) {
+    if (typeof text != "string") {
+        bot.sendMessage(updateChatId, "Sorry, I only support text messages \uD83D\uDE41");
         return;
     }
 
-    const text = message.text || "";
     const textLower = text.toLocaleLowerCase();
 
     if (wordMatcher(textLower, ["program", "timetable", "schedule", "events"])) {
@@ -60,39 +63,46 @@ const processMessage = function(message) {
             time = timeLookup[0].replace(".", ":").trim();
         }
 
-        getTimetable(message, event, time);
+        getTimetable(updateChatId, event, time);
     } else if (wordMatcher(textLower, ["nachrichten", "news", "alpbuzz"])) {
-        getNews(message);
+        getNews(updateChatId);
     } else {
-        bot.sendMessage(message.chat.id, "Hey! I'm the \uD83E\uDD16 efa16bot on Telegram. You can ask me things like today's program " +
-            "by texting 'program' or (with time) 'program 16:00'. Get the latest news from AlpBuzz with 'news'.");
+        bot.sendMessage(updateChatId, "Hey! I'm the \uD83E\uDD16 efa16bot on Telegram. You can ask me things like today's program " +
+            "by texting 'program' or (with time) 'program 16:00'. Get the latest news from AlpBuzz with 'news'.", {
+            reply_markup: {
+                inline_keyboard: [
+                    [{text: 'Alpbuzz News', callback_data: 'News'}],
+                    [{text: 'Program', callback_data: 'Program'}]
+                ]
+            }
+        });
     }
 };
 
-const getNews = exports.getNews = function(message) {
+const getNews = exports.getNews = function(updateChatId) {
     let input = new SyndFeedInput();
     let entries = (input.build(new XmlReader(new java.net.URL(config.get("feed"))))).getEntries();
 
     let entry = entries.get(0);
-    bot.sendMessage(message.chat.id, entry.getTitle() + "\n" +
+    bot.sendMessage(updateChatId, entry.getTitle() + "\n" +
             "<a href='" + entry.getLink() + "'>" + entry.getLink() + "</a>", {
         parse_mode: "html"
     });
 
     entry = entries.get(1);
-    bot.sendMessage(message.chat.id, entry.getTitle() + "\n" +
+    bot.sendMessage(updateChatId, entry.getTitle() + "\n" +
         "<a href='" + entry.getLink() + "'>" + entry.getLink() + "</a>", {
         parse_mode: "html"
     });
 
     entry = entries.get(2);
-    bot.sendMessage(message.chat.id, entry.getTitle() + "\n" +
+    bot.sendMessage(updateChatId, entry.getTitle() + "\n" +
         "<a href='" + entry.getLink() + "'>" + entry.getLink() + "</a>", {
         parse_mode: "html"
     });
 };
 
-const getTimetable = exports.getTimetable = function(message, event, time) {
+const getTimetable = exports.getTimetable = function(updateChatId, event, time) {
     let data;
 
     try {
@@ -131,7 +141,7 @@ const getTimetable = exports.getTimetable = function(message, event, time) {
             return entry.start + " - " + entry.event + " " + entry.type + " - " +
                 "<a href='" + entry.url + "'>" + entry.name + "</a>";
         }).forEach(function (text) {
-            bot.sendMessage(message.chat.id, text, {
+            bot.sendMessage(updateChatId, text, {
                 parse_mode: "html",
                 disable_web_page_preview: true
             });
@@ -139,11 +149,11 @@ const getTimetable = exports.getTimetable = function(message, event, time) {
         });
 
         if (count === 0) {
-            bot.sendMessage(message.chat.id, "Sorry, I found no events around " +
+            bot.sendMessage(updateChatId, "Sorry, I found no events around " +
                 dates.format(displayTime, "dd MMMM yyyy 'at' HH:mm", "en", "GMT+2") + " \uD83D\uDE22");
         }
     } catch (e) {
         log.error(e);
-        bot.sendMessage(message.chat.id, "Sorry, my database is broken \uD83D\uDCA5");
+        bot.sendMessage(updateChatId, "Sorry, my database is broken \uD83D\uDCA5");
     }
 };
