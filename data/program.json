@@ -1,0 +1,1289 @@
+[
+ {
+   "date": "28/08/2016",
+   "start": "15:00",
+   "end": "16:00",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-opening/",
+   "name": "OPENING",
+   "type": "PLENARY"
+ },
+ {
+   "date": "28/08/2016",
+   "start": "16:30",
+   "end": "18:30",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-the-eu-global-strategy-on-foreign-and-security-policy-can-it-deliver/",
+   "name": "THE EU GLOBAL STRATEGY ON FOREIGN AND SECURITY POLICY: CAN IT DELIVER?",
+   "type": "PLENARY"
+ },
+ {
+   "date": "28/08/2016",
+   "start": "17:00",
+   "end": "21:00",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-resilience-a-situation-room-experiment/",
+   "name": "RESILIENCE: A \"SITUATION ROOM\" EXPERIMENT",
+   "type": "PARTNER"
+ },
+ {
+   "date": "28/08/2016",
+   "start": "19:00",
+   "end": "20:30",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-democracy-gone-astray/",
+   "name": "DEMOCRACY GONE ASTRAY?",
+   "type": "PLENARY"
+ },
+ {
+   "date": "28/08/2016",
+   "start": "20:30",
+   "end": "21:30",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-europe-state-award-ceremony/",
+   "name": "EUROPE STATE AWARD CEREMONY",
+   "type": "PARTNER"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "08:00",
+   "end": "09:00",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-editors-breakfast/",
+   "name": "EDITORS' BREAKFAST",
+   "type": "PLENARY"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "09:30",
+   "end": "12:00",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-breakout-session-01-digitalisation-and-politics/",
+   "name": "BREAKOUT SESSION 01: DIGITALISATION AND POLITICS",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "09:30",
+   "end": "12:00",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-breakout-session-02-resilience-leadership-in-crisis-situations/",
+   "name": "BREAKOUT SESSION 02: RESILIENCE: LEADERSHIP IN CRISIS SITUATIONS",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "09:30",
+   "end": "12:00",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-breakout-session-03-act-digital-think-real-is-the-internet-a-democratic-space-for-everyone/",
+   "name": "BREAKOUT SESSION 03: ACT DIGITAL, THINK REAL: IS THE INTERNET A DEMOCRATIC SPACE FOR EVERYONE?",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "09:30",
+   "end": "12:00",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-breakout-session-04-promoting-the-entrepreneurial-spirit/",
+   "name": "BREAKOUT SESSION 04: PROMOTING THE ENTREPRENEURIAL SPIRIT",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "09:30",
+   "end": "12:00",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-breakout-session-05-liberte-egalite-solidarite-changing-value-systems-in-the-21st-century/",
+   "name": "BREAKOUT SESSION 05: LIBERTÉ - ÉGALITÉ - SOLIDARITÉ: CHANGING VALUE SYSTEMS IN THE 21ST CENTURY",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "09:30",
+   "end": "12:00",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-breakout-session-06-impact-collaboration-new-paradigms-of-governance/",
+   "name": "BREAKOUT SESSION 06: IMPACT & COLLABORATION: NEW PARADIGMS OF GOVERNANCE",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "09:30",
+   "end": "12:00",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-breakout-session-07-stuck-in-the-middle-eastern-european-states-and-their-relations-with-the-eu-and-russia/",
+   "name": "BREAKOUT SESSION 07: STUCK IN THE MIDDLE: EASTERN EUROPEAN STATES AND THEIR RELATIONS WITH THE EU AND RUSSIA",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "09:30",
+   "end": "12:00",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-breakout-session-08-enlightenment-in-europe-a-new-social-contract-for-the-digital-age/",
+   "name": "BREAKOUT SESSION 08: ENLIGHTENMENT IN EUROPE: A NEW SOCIAL CONTRACT FOR THE DIGITAL AGE?",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "09:30",
+   "end": "12:00",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-breakout-session-09-why-do-we-need-a-common-european-cultural-diplomacy/",
+   "name": "BREAKOUT SESSION 09: WHY DO WE NEED A COMMON EUROPEAN CULTURAL DIPLOMACY?",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "12:00",
+   "end": "13:30",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-lunch-reception/",
+   "name": "LUNCH RECEPTION",
+   "type": "SOCIAL"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "12:30",
+   "end": "13:30",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-fireside-talk-with-hanan-ashrawi/",
+   "name": "FIRESIDE TALK WITH HANAN ASHRAWI",
+   "type": "PARTNER"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "13:30",
+   "end": "16:00",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-breakout-session-12-towards-a-circular-economy-saving-raw-materials-for-the-planets-global-future/",
+   "name": "BREAKOUT SESSION 12: TOWARDS A CIRCULAR ECONOMY: SAVING RAW MATERIALS FOR THE PLANET'S GLOBAL FUTURE",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "13:30",
+   "end": "16:00",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-breakout-session-13-the-future-city-inclusive-connected-resilient/",
+   "name": "BREAKOUT SESSION 13: THE FUTURE CITY: INCLUSIVE, CONNECTED, RESILIENT",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "13:30",
+   "end": "16:00",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-breakout-session-14-climate-change-disasters-migration-preparing-for-emerging-risks/",
+   "name": "BREAKOUT SESSION 14: CLIMATE CHANGE, DISASTERS, MIGRATION: PREPARING FOR EMERGING RISKS",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "13:30",
+   "end": "16:00",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-breakout-session-15-innovative-solutions-to-the-new-challenge-of-integration/",
+   "name": "BREAKOUT SESSION 15: INNOVATIVE SOLUTIONS TO THE \"NEW\" CHALLENGE OF INTEGRATION",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "13:30",
+   "end": "16:00",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-breakout-session-16-redesigning-european-welfare-states-rebalancing-the-roles-of-eu-and-member-states/",
+   "name": "BREAKOUT SESSION 16: REDESIGNING EUROPEAN WELFARE STATES: REBALANCING THE ROLES OF EU AND MEMBER STATES",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "13:30",
+   "end": "16:00",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-breakout-session-17-the-eus-cooperation-with-southern-neighbours-in-response-to-the-refugee-crisis/",
+   "name": "BREAKOUT SESSION 17: THE EU'S COOPERATION WITH SOUTHERN NEIGHBOURS IN RESPONSE TO THE REFUGEE CRISIS",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "13:30",
+   "end": "16:00",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-breakout-session-18-and-what-do-we-get-out-of-it-implementing-the-un-sustainable-development-goals-in-europe/",
+   "name": "BREAKOUT SESSION 18: AND WHAT DO WE GET OUT OF IT? IMPLEMENTING THE UN SUSTAINABLE DEVELOPMENT GOALS IN EUROPE",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "13:30",
+   "end": "16:00",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-breakout-session-19-overcoming-the-credibility-gap/",
+   "name": "BREAKOUT SESSION 19: OVERCOMING THE CREDIBILITY GAP",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "13:30",
+   "end": "16:00",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-breakout-session-22-together-or-torn-apart-which-values-will-build-our-future/",
+   "name": "BREAKOUT SESSION 22: TOGETHER OR TORN APART: WHICH VALUES WILL BUILD OUR FUTURE?",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "16:00",
+   "end": "18:00",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-reception/",
+   "name": "RECEPTION",
+   "type": "SOCIAL"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "18:00",
+   "end": "19:30",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-turkey-between-regional-aspirations-and-challenges/",
+   "name": "TURKEY BETWEEN REGIONAL ASPIRATIONS AND CHALLENGES",
+   "type": "PLENARY"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "20:00",
+   "end": "21:00",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-brexit-and-the-future-of-europe/",
+   "name": "BREXIT AND THE FUTURE OF EUROPE",
+   "type": "PLENARY"
+ },
+ {
+   "date": "30/08/2016",
+   "start": "08:00",
+   "end": "09:00",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-breakfast-club-strategies-of-influence/",
+   "name": "BREAKFAST CLUB: STRATEGIES OF INFLUENCE",
+   "type": "PLENARY"
+ },
+ {
+   "date": "30/08/2016",
+   "start": "08:30",
+   "end": "09:30",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-sustainable-development-goals-what-big-companies-must-do-to-get-things-going/",
+   "name": "SUSTAINABLE DEVELOPMENT GOALS: WHAT BIG COMPANIES MUST DO TO GET THINGS GOING",
+   "type": "PLENARY"
+ },
+ {
+   "date": "30/08/2016",
+   "start": "09:30",
+   "end": "10:00",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-courage-in-times-of-multiple-interconnected-crises-a-bold-attempt-to-integrate-art-and-science/",
+   "name": "COURAGE IN TIMES OF MULTIPLE INTERCONNECTED CRISES: A BOLD ATTEMPT TO INTEGRATE ART AND SCIENCE",
+   "type": "PLENARY"
+ },
+ {
+   "date": "30/08/2016",
+   "start": "10:30",
+   "end": "12:30",
+   "event": "POL",
+   "url": "http://www.alpbach.org/en/session/pol16-sustainable-development-goals-which-social-entrepreneurs-are-already-one-step-ahead/",
+   "name": "SUSTAINABLE DEVELOPMENT GOALS: WHICH SOCIAL ENTREPRENEURS ARE ALREADY ONE STEP AHEAD?",
+   "type": "PLENARY"
+ },
+ {
+   "date": "01/09/2016",
+   "start": "14:00",
+   "end": "14:20",
+   "event": "FIN",
+   "url": "http://www.alpbach.org/en/session/fin16-opening/",
+   "name": "OPENING",
+   "type": "PLENARY"
+ },
+ {
+   "date": "01/09/2016",
+   "start": "14:20",
+   "end": "15:30",
+   "event": "FIN",
+   "url": "http://www.alpbach.org/en/session/fin16-digitalisation-end-of-capitalism-or-perfect-market/",
+   "name": "DIGITALISATION: END OF CAPITALISM OR PERFECT MARKET?",
+   "type": "PLENARY"
+ },
+ {
+   "date": "01/09/2016",
+   "start": "15:40",
+   "end": "16:15",
+   "event": "FIN",
+   "url": "http://www.alpbach.org/en/session/fin16-meet-the-speaker-paul-mason/",
+   "name": "MEET THE SPEAKER: PAUL MASON",
+   "type": "PLENARY"
+ },
+ {
+   "date": "01/09/2016",
+   "start": "16:00",
+   "end": "17:30",
+   "event": "FIN",
+   "url": "http://www.alpbach.org/en/session/fin16-the-euro-fissure-or-glue-for-europe/",
+   "name": "THE EURO: FISSURE OR GLUE FOR EUROPE?",
+   "type": "PLENARY"
+ },
+ {
+   "date": "01/09/2016",
+   "start": "17:40",
+   "end": "18:15",
+   "event": "FIN",
+   "url": "http://www.alpbach.org/en/session/fin16-meet-the-speaker-daniela-schwarzer/",
+   "name": "MEET THE SPEAKER: DANIELA SCHWARZER",
+   "type": "PLENARY"
+ },
+ {
+   "date": "01/09/2016",
+   "start": "17:40",
+   "end": "18:15",
+   "event": "FIN",
+   "url": "http://www.alpbach.org/en/session/fin16-meet-the-speaker-yanis-varoufakis/",
+   "name": "MEET THE SPEAKER: YANIS VAROUFAKIS",
+   "type": "PLENARY"
+ },
+ {
+   "date": "01/09/2016",
+   "start": "18:00",
+   "end": "19:30",
+   "event": "FIN",
+   "url": "http://www.alpbach.org/en/session/fin16-easy-money-policy-free-money-for-all-or-necessary-safety-net/",
+   "name": "EASY MONEY POLICY: FREE MONEY FOR ALL OR NECESSARY SAFETY NET?",
+   "type": "PLENARY"
+ },
+ {
+   "date": "02/09/2016",
+   "start": "08:30",
+   "end": "10:00",
+   "event": "FIN",
+   "url": "http://www.alpbach.org/en/session/fin16-breakfast-club-01-climate-change-in-the-financial-sector/",
+   "name": "BREAKFAST CLUB 01: CLIMATE CHANGE IN THE FINANCIAL SECTOR",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "02/09/2016",
+   "start": "08:30",
+   "end": "10:00",
+   "event": "FIN",
+   "url": "http://www.alpbach.org/en/session/fin16-breakfast-club-02-retail-banking-2030-competition-from-non-banks/",
+   "name": "BREAKFAST CLUB 02: RETAIL BANKING 2030 - COMPETITION FROM NON-BANKS",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "02/09/2016",
+   "start": "08:30",
+   "end": "10:00",
+   "event": "FIN",
+   "url": "http://www.alpbach.org/en/session/fin16-breakfast-club-03-blockchain-the-end-of-banks/",
+   "name": "BREAKFAST CLUB 03: BLOCKCHAIN - THE END OF BANKS?",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "02/09/2016",
+   "start": "08:30",
+   "end": "10:00",
+   "event": "FIN",
+   "url": "http://www.alpbach.org/en/session/fin16-breakfast-club-04-do-life-insurances-and-pensions-have-a-future/",
+   "name": "BREAKFAST CLUB 04: DO LIFE INSURANCES AND PENSIONS HAVE A FUTURE?",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "02/09/2016",
+   "start": "10:30",
+   "end": "12:00",
+   "event": "FIN",
+   "url": "http://www.alpbach.org/en/session/fin16-breakfast-club-05-cyber-security-protecting-critical-financial-infrastructure/",
+   "name": "BREAKFAST CLUB 05: CYBER SECURITY - PROTECTING CRITICAL FINANCIAL INFRASTRUCTURE",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "02/09/2016",
+   "start": "10:30",
+   "end": "12:00",
+   "event": "FIN",
+   "url": "http://www.alpbach.org/en/session/fin16-breakfast-club-06-innovative-philanthropic-capital-make-your-investment-count/",
+   "name": "BREAKFAST CLUB 06: INNOVATIVE PHILANTHROPIC CAPITAL - MAKE YOUR INVESTMENT COUNT!",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "02/09/2016",
+   "start": "10:30",
+   "end": "12:00",
+   "event": "FIN",
+   "url": "http://www.alpbach.org/en/session/fin16-breakfast-club-07-seven-years-of-regulation-what-now/",
+   "name": "BREAKFAST CLUB 07: SEVEN YEARS OF REGULATION - WHAT NOW?",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "02/09/2016",
+   "start": "10:30",
+   "end": "12:00",
+   "event": "FIN",
+   "url": "http://www.alpbach.org/en/session/fin16-breakfast-club-08-smes-on-the-capital-market/",
+   "name": "BREAKFAST CLUB 08: SMES ON THE CAPITAL MARKET",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "02/09/2016",
+   "start": "15:00",
+   "end": "17:30",
+   "event": "FIN",
+   "url": "http://www.alpbach.org/en/session/fin16-alpbach-hike-panoramic-encounters/",
+   "name": "ALPBACH HIKE: PANORAMIC ENCOUNTERS",
+   "type": "PLENARY"
+ },
+ {
+   "date": "02/09/2016",
+   "start": "21:00",
+   "end": "23:00",
+   "event": "FIN",
+   "url": "http://www.alpbach.org/en/session/fin16-reception/",
+   "name": "RECEPTION",
+   "type": "SOCIAL"
+ },
+ {
+   "date": "01/09/2016",
+   "start": "10:00",
+   "end": "11:30",
+   "event": "BLT",
+   "url": "http://www.alpbach.org/en/session/blt16-bookpresentation/",
+   "name": "BOOKPRESENTATION",
+   "type": "PLENARY"
+ },
+ {
+   "date": "01/09/2016",
+   "start": "13:00",
+   "end": "13:30",
+   "event": "BLT",
+   "url": "http://www.alpbach.org/en/session/blt16-opening/",
+   "name": "OPENING",
+   "type": "PLENARY"
+ },
+ {
+   "date": "01/09/2016",
+   "start": "13:30",
+   "end": "15:00",
+   "event": "BLT",
+   "url": "http://www.alpbach.org/en/session/blt16-managing-urbanisation/",
+   "name": "MANAGING URBANISATION",
+   "type": "PLENARY"
+ },
+ {
+   "date": "01/09/2016",
+   "start": "15:00",
+   "end": "15:30",
+   "event": "BLT",
+   "url": "http://www.alpbach.org/en/session/blt16-interval-talk/",
+   "name": "INTERVAL TALK",
+   "type": "PARTNER"
+ },
+ {
+   "date": "01/09/2016",
+   "start": "15:30",
+   "end": "17:00",
+   "event": "BLT",
+   "url": "http://www.alpbach.org/en/session/blt16-sharing-the-city/",
+   "name": "SHARING THE CITY",
+   "type": "PLENARY"
+ },
+ {
+   "date": "01/09/2016",
+   "start": "17:00",
+   "end": "17:30",
+   "event": "BLT",
+   "url": "http://www.alpbach.org/en/session/blt16-interval-talk/",
+   "name": "INTERVAL TALK",
+   "type": "PARTNER"
+ },
+ {
+   "date": "01/09/2016",
+   "start": "17:30",
+   "end": "19:30",
+   "event": "BLT",
+   "url": "http://www.alpbach.org/en/session/blt16-science-slam-on-time-to-share-places-for-everyone/",
+   "name": "SCIENCE SLAM ON \"TIME TO SHARE. PLACES FOR EVERYONE\"",
+   "type": "SOCIAL"
+ },
+ {
+   "date": "01/09/2016",
+   "start": "19:30",
+   "end": "20:00",
+   "event": "BLT",
+   "url": "http://www.alpbach.org/en/session/blt16-interval-talk/",
+   "name": "INTERVAL TALK",
+   "type": "PARTNER"
+ },
+ {
+   "date": "02/09/2016",
+   "start": "08:30",
+   "end": "09:00",
+   "event": "BLT",
+   "url": "http://www.alpbach.org/en/session/blt16-interval-talk/",
+   "name": "INTERVAL TALK",
+   "type": "PARTNER"
+ },
+ {
+   "date": "02/09/2016",
+   "start": "09:00",
+   "end": "09:45",
+   "event": "BLT",
+   "url": "http://www.alpbach.org/en/session/blt16-housing-and-social-responsibility-eu-perspectives-and-the-austrian-case/",
+   "name": "HOUSING AND SOCIAL RESPONSIBILITY: EU PERSPECTIVES AND THE AUSTRIAN CASE",
+   "type": "PLENARY"
+ },
+ {
+   "date": "02/09/2016",
+   "start": "09:45",
+   "end": "11:00",
+   "event": "BLT",
+   "url": "http://www.alpbach.org/en/session/blt16-planning-the-city/",
+   "name": "PLANNING THE CITY",
+   "type": "PLENARY"
+ },
+ {
+   "date": "02/09/2016",
+   "start": "11:00",
+   "end": "11:30",
+   "event": "BLT",
+   "url": "http://www.alpbach.org/en/session/blt16-interval-talk/",
+   "name": "INTERVAL TALK",
+   "type": "PARTNER"
+ },
+ {
+   "date": "02/09/2016",
+   "start": "11:30",
+   "end": "13:00",
+   "event": "BLT",
+   "url": "http://www.alpbach.org/en/session/blt16-running-the-city/",
+   "name": "RUNNING THE CITY",
+   "type": "PLENARY"
+ },
+ {
+   "date": "02/09/2016",
+   "start": "13:00",
+   "end": "14:30",
+   "event": "BLT",
+   "url": "http://www.alpbach.org/en/session/blt16-interval-talk/",
+   "name": "INTERVAL TALK",
+   "type": "PARTNER"
+ },
+ {
+   "date": "02/09/2016",
+   "start": "14:30",
+   "end": "16:00",
+   "event": "BLT",
+   "url": "http://www.alpbach.org/en/session/blt16-opening-a-city-s-mind/",
+   "name": "OPENING A CITY S MIND",
+   "type": "PLENARY"
+ },
+ {
+   "date": "02/09/2016",
+   "start": "16:30",
+   "end": "17:50",
+   "event": "BLT",
+   "url": "http://www.alpbach.org/en/session/schlussworte-80/",
+   "name": "CLOSING REMARKS",
+   "type": ""
+ },
+ {
+   "date": "30/08/0216",
+   "start": "10:00",
+   "end": "12:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-charity-soccer-match-good-game-good-cause/",
+   "name": "CHARITY SOCCER MATCH - GOOD GAME, GOOD CAUSE",
+   "type": "SOCIAL"
+ },
+ {
+   "date": "30/08/0216",
+   "start": "14:00",
+   "end": "14:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-opening/",
+   "name": "OPENING",
+   "type": "PLENARY"
+ },
+ {
+   "date": "30/08/0216",
+   "start": "14:30",
+   "end": "16:00",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-changing-world-changing-ways/",
+   "name": "CHANGING WORLD - CHANGING WAYS",
+   "type": "PLENARY"
+ },
+ {
+   "date": "30/08/0216",
+   "start": "16:10",
+   "end": "16:45",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-meet-the-speaker-cesar-hidalgo/",
+   "name": "MEET THE SPEAKER: CESAR HIDALGO",
+   "type": "PLENARY"
+ },
+ {
+   "date": "30/08/0216",
+   "start": "16:10",
+   "end": "16:45",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-meet-the-speaker-robin-chase/",
+   "name": "MEET THE SPEAKER: ROBIN CHASE",
+   "type": "PLENARY"
+ },
+ {
+   "date": "30/08/0216",
+   "start": "16:30",
+   "end": "18:00",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-market-economy-reinvent-or-reboot/",
+   "name": "MARKET ECONOMY - REINVENT OR REBOOT?",
+   "type": "PLENARY"
+ },
+ {
+   "date": "30/08/0216",
+   "start": "18:30",
+   "end": "20:00",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-fireside-talk-future-of-europe-future-of-the-european-economy/",
+   "name": "FIRESIDE TALK \"FUTURE OF EUROPE - FUTURE OF THE EUROPEAN ECONOMY\"",
+   "type": "PARTNER"
+ },
+ {
+   "date": "30/08/0216",
+   "start": "18:30",
+   "end": "20:00",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-ecoplus-lower-austria-evening/",
+   "name": "ECOPLUS LOWER AUSTRIA EVENING",
+   "type": "SOCIAL"
+ },
+ {
+   "date": "30/08/0216",
+   "start": "20:00",
+   "end": "21:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-migration-opportunity-and-challenge/",
+   "name": "MIGRATION - OPPORTUNITY AND CHALLENGE",
+   "type": "PLENARY"
+ },
+ {
+   "date": "30/08/0216",
+   "start": "21:30",
+   "end": "22:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-illuminating-alpbach/",
+   "name": "ILLUMINATING ALPBACH",
+   "type": "SOCIAL"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "08:00",
+   "end": "09:00",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-16th-management-club-business-breakfast/",
+   "name": "16TH MANAGEMENT CLUB BUSINESS BREAKFAST",
+   "type": "PARTNER"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "08:00",
+   "end": "09:00",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-country-breakfast-georgia-ways-out-of-corruption/",
+   "name": "COUNTRY BREAKFAST GEORGIA - WAYS OUT OF CORRUPTION",
+   "type": "PLENARY"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "08:00",
+   "end": "09:00",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-country-breakfast-israel-the-country-of-start-ups/",
+   "name": "COUNTRY BREAKFAST ISRAEL - THE COUNTRY OF START-UPS",
+   "type": "PLENARY"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "08:00",
+   "end": "09:00",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-country-breakfast-south-korea-education-is-the-key/",
+   "name": "COUNTRY BREAKFAST SOUTH KOREA - EDUCATION IS THE KEY",
+   "type": "PLENARY"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "09:00",
+   "end": "10:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-digital-employees-have-no-fear-technology-is-here/",
+   "name": "DIGITAL EMPLOYEES - HAVE NO FEAR, TECHNOLOGY IS HERE",
+   "type": "PLENARY"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "11:00",
+   "end": "13:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-breakout-session-01-online-platforms-new-working-conditions-in-the-digital-age/",
+   "name": "BREAKOUT SESSION 01: ONLINE PLATFORMS - NEW WORKING CONDITIONS IN THE DIGITAL AGE",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "11:00",
+   "end": "13:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-breakout-session-02-the-role-of-a-modern-state-for-the-economy-and-society/",
+   "name": "BREAKOUT SESSION 02: THE ROLE OF A MODERN STATE FOR THE ECONOMY AND SOCIETY",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "11:00",
+   "end": "13:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-breakout-session-03-the-european-data-economy-needs-a-new-enlightenment/",
+   "name": "BREAKOUT SESSION 03: THE EUROPEAN DATA ECONOMY NEEDS A NEW ENLIGHTENMENT!",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "11:00",
+   "end": "13:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-breakout-session-04-crowdsourcing-if-you-have-a-problem-ask-everyone/",
+   "name": "BREAKOUT SESSION 04: CROWDSOURCING - IF YOU HAVE A PROBLEM, ASK EVERYONE!?",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "11:00",
+   "end": "13:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-breakout-session-05-regional-hidden-champions-ready-for-the-future/",
+   "name": "BREAKOUT SESSION 05: REGIONAL HIDDEN CHAMPIONS: READY FOR THE FUTURE?",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "11:00",
+   "end": "13:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-breakout-session-06-new-values-new-ambitions-how-traditional-leadership-is-challenged-by-millennials/",
+   "name": "BREAKOUT SESSION 06: NEW VALUES, NEW AMBITIONS? HOW TRADITIONAL LEADERSHIP IS CHALLENGED BY MILLENNIALS",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "11:00",
+   "end": "13:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-breakout-session-07-motivate-and-regulate-behavioural-economics-as-a-new-approach-in-politics/",
+   "name": "BREAKOUT SESSION 07: MOTIVATE AND REGULATE - BEHAVIOURAL ECONOMICS AS A NEW APPROACH IN POLITICS",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "11:00",
+   "end": "13:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-breakout-session-08-the-4th-industrial-revolution-reurbanisation-of-production/",
+   "name": "BREAKOUT SESSION 08: THE 4TH INDUSTRIAL REVOLUTION - REURBANISATION OF PRODUCTION",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "11:00",
+   "end": "13:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-breakout-session-09-fintechs-crowdfunding-and-online-consultancy-a-change-for-the-whole-financial-industry/",
+   "name": "BREAKOUT SESSION 09: FINTECHS, CROWDFUNDING AND ONLINE CONSULTANCY - A CHANGE FOR THE WHOLE FINANCIAL INDUSTRY?",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "11:00",
+   "end": "13:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-breakout-session-10-digital-transformation-through-business-model-innovation/",
+   "name": "BREAKOUT SESSION 10: DIGITAL TRANSFORMATION THROUGH BUSINESS MODEL INNOVATION",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "11:00",
+   "end": "13:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-breakout-session-11-the-power-and-myth-of-creativity/",
+   "name": "BREAKOUT SESSION 11: THE POWER AND MYTH OF CREATIVITY",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "13:30",
+   "end": "15:00",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-lunch-reception/",
+   "name": "LUNCH RECEPTION",
+   "type": "SOCIAL"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "13:45",
+   "end": "14:45",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-world-economy-austria-successful-ideas-for-our-country/",
+   "name": "WORLD.ECONOMY.AUSTRIA. SUCCESSFUL IDEAS FOR OUR COUNTRY",
+   "type": "PARTNER"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "15:00",
+   "end": "17:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-breakout-session-12-international-trade-past-present-future/",
+   "name": "BREAKOUT SESSION 12: INTERNATIONAL TRADE - PAST, PRESENT, FUTURE",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "15:00",
+   "end": "17:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-breakout-session-13-where-fear-reigns-reason-fades/",
+   "name": "BREAKOUT SESSION 13: WHERE FEAR REIGNS, REASON FADES",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "15:00",
+   "end": "17:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-breakout-session-14-big-data-a-vision-of-the-future-or-the-end-of-coincidence/",
+   "name": "BREAKOUT SESSION 14: BIG DATA - A VISION OF THE FUTURE, OR: THE END OF COINCIDENCE?",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "15:00",
+   "end": "17:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-breakout-session-15-leadership-responsibility-how-responsible-leaders-do-good-and-irresponsible-leaders-create-havoc/",
+   "name": "BREAKOUT SESSION 15: LEADERSHIP & RESPONSIBILITY - HOW RESPONSIBLE LEADERS DO GOOD AND IRRESPONSIBLE LEADERS CREATE HAVOC",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "15:00",
+   "end": "17:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-breakout-session-16-stay-innovative-the-example-of-light-weight-design/",
+   "name": "BREAKOUT SESSION 16: STAY INNOVATIVE - THE EXAMPLE OF LIGHT WEIGHT DESIGN",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "15:00",
+   "end": "17:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-breakout-session-17-live-or-let-die-the-evolution-of-the-economy-darwinism-mixes-up-the-markets/",
+   "name": "BREAKOUT SESSION 17: LIVE OR LET DIE? THE EVOLUTION OF THE ECONOMY - DARWINISM MIXES UP THE MARKETS",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "15:00",
+   "end": "17:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-breakout-session-18-the-energy-transition-a-test-for-our-economic-system/",
+   "name": "BREAKOUT SESSION 18: THE ENERGY TRANSITION - A TEST FOR OUR ECONOMIC SYSTEM",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "15:00",
+   "end": "17:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-breakout-session-19-quo-vadis-digital-europeaustria/",
+   "name": "BREAKOUT SESSION 19: QUO VADIS DIGITAL EUROPE/AUSTRIA?",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "15:00",
+   "end": "17:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-breakout-session-20-hands-on-jam-session-business-as-unusual-open-innovation-and-service-design-thinking/",
+   "name": "BREAKOUT SESSION 20: HANDS ON JAM SESSION - BUSINESS AS UNUSUAL: OPEN INNOVATION AND SERVICE DESIGN THINKING",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "15:00",
+   "end": "17:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-breakout-session-21-opinion-making-between-transparency-and-headline-fever/",
+   "name": "BREAKOUT SESSION 21: OPINION MAKING BETWEEN TRANSPARENCY AND HEADLINE FEVER",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "15:00",
+   "end": "17:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-breakout-session-22-transparency-cui-bono/",
+   "name": "BREAKOUT SESSION 22: TRANSPARENCY - CUI BONO?",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "18:30",
+   "end": "20:00",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-switch-changing-culture-changing-business/",
+   "name": "SWITCH - CHANGING CULTURE, CHANGING BUSINESS?",
+   "type": "PLENARY"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "19:00",
+   "end": "20:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-myths-and-facts-how-is-it-with-the-austrian-economic-and-social-system/",
+   "name": "MYTHS AND FACTS. HOW IS IT WITH THE AUSTRIAN ECONOMIC AND SOCIAL SYSTEM?",
+   "type": "PARTNER"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "22:00",
+   "end": "00:00",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-magenta-night/",
+   "name": "MAGENTA NIGHT",
+   "type": "SOCIAL"
+ },
+ {
+   "date": "01/09/2016",
+   "start": "08:00",
+   "end": "09:00",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-breakfast-club/",
+   "name": "BREAKFAST CLUB",
+   "type": "PLENARY"
+ },
+ {
+   "date": "01/09/2016",
+   "start": "08:30",
+   "end": "09:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-kater-breakfast/",
+   "name": "\"KATER\" BREAKFAST",
+   "type": "PARTNER"
+ },
+ {
+   "date": "01/09/2016",
+   "start": "09:00",
+   "end": "10:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-digital-entrepreneurship-in-europe/",
+   "name": "DIGITAL ENTREPRENEURSHIP IN EUROPE",
+   "type": "PLENARY"
+ },
+ {
+   "date": "01/09/2016",
+   "start": "09:00",
+   "end": "10:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-fully-connected-fully-enlightened-or-fully-enslaved-peter-drucker-morning-session/",
+   "name": "FULLY CONNECTED - FULLY ENLIGHTENED OR FULLY ENSLAVED? - PETER DRUCKER MORNING SESSION",
+   "type": "PLENARY"
+ },
+ {
+   "date": "01/09/2016",
+   "start": "11:00",
+   "end": "12:30",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-different-countries-different-solutions-economic-cultures-in-comparison/",
+   "name": "DIFFERENT COUNTRIES, DIFFERENT SOLUTIONS - ECONOMIC CULTURES IN COMPARISON",
+   "type": "PLENARY"
+ },
+ {
+   "date": "01/09/2016",
+   "start": "12:40",
+   "end": "13:15",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-meet-the-speaker-lung-yingtai/",
+   "name": "MEET THE SPEAKER: LUNG YINGTAI",
+   "type": "PLENARY"
+ },
+ {
+   "date": "01/09/2016",
+   "start": "12:40",
+   "end": "13:15",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-meet-the-speaker-philipp-blom/",
+   "name": "MEET THE SPEAKER: PHILIPP BLOM",
+   "type": "PLENARY"
+ },
+ {
+   "date": "01/09/2016",
+   "start": "16:30",
+   "end": "20:00",
+   "event": "ECN",
+   "url": "http://www.alpbach.org/en/session/ecn16-economic-dialogue/",
+   "name": "ECONOMIC DIALOGUE",
+   "type": "PARTNER"
+ },
+ {
+   "date": "28/08/2016",
+   "start": "13:00",
+   "end": "14:00",
+   "event": "LAW",
+   "url": "http://www.alpbach.org/en/session/law16-opening/",
+   "name": "OPENING",
+   "type": "PLENARY"
+ },
+ {
+   "date": "28/08/2016",
+   "start": "14:00",
+   "end": "14:30",
+   "event": "LAW",
+   "url": "http://www.alpbach.org/en/session/law16-opening-speech/",
+   "name": "OPENING SPEECH",
+   "type": "PLENARY"
+ },
+ {
+   "date": "28/08/2016",
+   "start": "15:00",
+   "end": "16:30",
+   "event": "LAW",
+   "url": "http://www.alpbach.org/en/session/law16-the-acknowledgment-of-the-other-the-family-in-law/",
+   "name": "THE ACKNOWLEDGMENT OF THE OTHER - THE FAMILY IN LAW",
+   "type": "PLENARY"
+ },
+ {
+   "date": "28/08/2016",
+   "start": "17:00",
+   "end": "18:30",
+   "event": "LAW",
+   "url": "http://www.alpbach.org/en/session/law16-human-rights-on-the-run-i/",
+   "name": "HUMAN RIGHTS ON THE RUN I",
+   "type": "PLENARY"
+ },
+ {
+   "date": "28/08/2016",
+   "start": "19:00",
+   "end": "20:00",
+   "event": "LAW",
+   "url": "http://www.alpbach.org/en/session/law16-human-rights-on-the-run-ii/",
+   "name": "HUMAN RIGHTS ON THE RUN II",
+   "type": "PLENARY"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "09:30",
+   "end": "12:00",
+   "event": "LAW",
+   "url": "http://www.alpbach.org/en/session/law16-breakout-session-10-human-rights-on-the-run/",
+   "name": "BREAKOUT SESSION 10: HUMAN RIGHTS ON THE RUN",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "09:30",
+   "end": "12:00",
+   "event": "LAW",
+   "url": "http://www.alpbach.org/en/session/law16-breakout-session-11-rights-respect-reality-the-europe-of-values-in-todays-world/",
+   "name": "BREAKOUT SESSION 11: RIGHTS, RESPECT, REALITY: THE EUROPE OF VALUES IN TODAY'S WORLD",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "13:30",
+   "end": "16:00",
+   "event": "LAW",
+   "url": "http://www.alpbach.org/en/session/law16-breakout-session-20-human-rights-migration-corruption-a-reality-check/",
+   "name": "BREAKOUT SESSION 20: HUMAN RIGHTS - MIGRATION - CORRUPTION: A REALITY CHECK",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "13:30",
+   "end": "16:00",
+   "event": "LAW",
+   "url": "http://www.alpbach.org/en/session/law16-breakout-session-21-boosting-world-trade-and-protecting-the-environment-a-catch-22-for-the-21st-century/",
+   "name": "BREAKOUT SESSION 21: BOOSTING WORLD TRADE AND PROTECTING THE ENVIRONMENT: A CATCH 22 FOR THE 21ST CENTURY?",
+   "type": "BREAKOUT"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "17:00",
+   "end": "19:00",
+   "event": "LAW",
+   "url": "http://www.alpbach.org/en/session/law16-roundtable-human-rights-and-corporate-crime-an-european-challenge/",
+   "name": "ROUNDTABLE: HUMAN RIGHTS AND CORPORATE CRIME - AN EUROPEAN CHALLENGE",
+   "type": "PLENARY"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "20:30",
+   "end": "23:00",
+   "event": "LAW",
+   "url": "http://www.alpbach.org/en/session/law16-reception/",
+   "name": "RECEPTION",
+   "type": "SOCIAL"
+ },
+ {
+   "date": "30/08/2016",
+   "start": "09:00",
+   "end": "10:30",
+   "event": "LAW",
+   "url": "http://www.alpbach.org/en/session/law16-the-rationality-of-punishment/",
+   "name": "THE RATIONALITY OF PUNISHMENT",
+   "type": "PLENARY"
+ },
+ {
+   "date": "30/08/2016",
+   "start": "11:00",
+   "end": "12:00",
+   "event": "LAW",
+   "url": "http://www.alpbach.org/en/session/law16-algorithm-controlled-personalised-education-chances-and-risks/",
+   "name": "ALGORITHM-CONTROLLED PERSONALISED EDUCATION - CHANCES AND RISKS",
+   "type": "PLENARY"
+ },
+ {
+   "date": "30/08/2016",
+   "start": "12:00",
+   "end": "12:30",
+   "event": "LAW",
+   "url": "http://www.alpbach.org/en/session/schlussworte-81/",
+   "name": "CLOSING REMARKS",
+   "type": "PLENARY"
+ },
+ {
+   "date": "28/08/2016",
+   "start": "11:00",
+   "end": "12:30",
+   "event": "CUL",
+   "url": "http://www.alpbach.org/en/session/art16-rimini-protokoll-matinee-with-stefan-kaegi/",
+   "name": "\"RIMINI PROTOKOLL.\" MATINÉE WITH STEFAN KAEGI",
+   "type": "CULTURE"
+ },
+ {
+   "date": "28/08/2016",
+   "start": "22:00",
+   "end": "23:45",
+   "event": "CUL",
+   "url": "http://www.alpbach.org/en/session/art16-kal-band-rocknroma/",
+   "name": "KAL BAND ROCK'N'ROMA",
+   "type": "CULTURE"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "15:00",
+   "end": "17:30",
+   "event": "CUL",
+   "url": "http://www.alpbach.org/en/session/art16-judgment-in-hungary/",
+   "name": "\"JUDGMENT IN HUNGARY\"",
+   "type": "CULTURE"
+ },
+ {
+   "date": "29/08/2016",
+   "start": "16:00",
+   "end": "17:30",
+   "event": "CUL",
+   "url": "http://www.alpbach.org/en/session/judgment-in-hungary-artist-talk/",
+   "name": "\"JUDGMENT IN HUNGARY\" ARTIST TALK",
+   "type": "CULTURE"
+ },
+ {
+   "date": "30/08/2016",
+   "start": "18:00",
+   "end": "19:00",
+   "event": "CUL",
+   "url": "http://www.alpbach.org/en/session/art16-horizon-in-motion/",
+   "name": "\"HORIZON IN MOTION\"",
+   "type": "CULTURE"
+ },
+ {
+   "date": "30/08/2016",
+   "start": "18:00",
+   "end": "19:00",
+   "event": "CUL",
+   "url": "http://www.alpbach.org/en/session/art16-elmar-trenkwalder-gives-a-tour-through-his-exhibition/",
+   "name": "ELMAR TRENKWALDER GIVES A TOUR THROUGH HIS EXHIBITION",
+   "type": "CULTURE"
+ },
+ {
+   "date": "30/08/2016",
+   "start": "22:00",
+   "end": "23:30",
+   "event": "CUL",
+   "url": "http://www.alpbach.org/en/session/art16-juetz-new-adventures-in-alpine-music-alpach-brass/",
+   "name": "JÜTZ NEW ADVENTURES IN ALPINE MUSIC & ALPACH BRASS",
+   "type": "CULTURE"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "19:00",
+   "end": "20:00",
+   "event": "CUL",
+   "url": "http://www.alpbach.org/en/session/art16-two-parallel-realities/",
+   "name": "\"TWO PARALLEL REALITIES\"",
+   "type": "CULTURE"
+ },
+ {
+   "date": "31/08/2016",
+   "start": "20:00",
+   "end": "21:30",
+   "event": "CUL",
+   "url": "http://www.alpbach.org/en/session/art16-stroke-upon-stroke/",
+   "name": "\"STROKE UPON STROKE\"",
+   "type": "CULTURE"
+ },
+ {
+   "date": "01/09/2016",
+   "start": "21:00",
+   "end": "22:00",
+   "event": "CUL",
+   "url": "http://www.alpbach.org/en/session/art16-learning-from-history-a-talk-about-the-haus-der-geschichte-oesterreich/",
+   "name": "\"LEARNING FROM HISTORY!\" A TALK ABOUT THE HAUS DER GESCHICHTE ÖSTERREICH",
+   "type": "CULTURE"
+ },
+ {
+   "date": "02/09/2016",
+   "start": "11:00",
+   "end": "12:30",
+   "event": "CUL",
+   "url": "http://www.alpbach.org/en/session/art16-matinee-with-fuad-gritli-between-freedom-of-press-and-death-threats-political-cabaret-in-libya/",
+   "name": "MATINÉE WITH FUAD GRITLI - BETWEEN FREEDOM OF PRESS AND DEATH THREATS: POLITICAL CABARET IN LIBYA",
+   "type": "CULTURE"
+ },
+ {
+   "date": "02/09/2016",
+   "start": "18:15",
+   "end": "19:15",
+   "event": "CUL",
+   "url": "http://www.alpbach.org/en/session/art16-concert-by-the-tiroler-buergermeisterkapelle-schwaz/",
+   "name": "CONCERT BY THE TIROLER BÜRGERMEISTERKAPELLE SCHWAZ",
+   "type": "CULTURE"
+ },
+ {
+   "date": "02/09/2016",
+   "start": "19:30",
+   "end": "20:30",
+   "event": "CUL",
+   "url": "http://www.alpbach.org/en/session/art16-spot-on/",
+   "name": "\"SPOT ON!\"",
+   "type": "CULTURE"
+ }
+]

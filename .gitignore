@@ -1,0 +1,6 @@
+.idea
+/temp
+/packages
+/config/config.json
+.DS_Store
+/config/config.development.json

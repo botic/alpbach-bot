@@ -1,0 +1,26 @@
+{
+    "name": "alpbach-bot",
+    "version": "1.0",
+    "description": "A Telegram Bot Service",
+    "keywords": [
+        "telegram", "bots"
+    ],
+    "author": {
+        "name":  "Philipp Naderer",
+        "web":   "http://naderer.biz",
+        "email": "philipp.naderer@gmail.com"
+    },
+    "dependencies": {
+        "gestalt": ">=0.1.1",
+        "stick": ">=0.4.0",
+        "validator": ">=0.3",
+        "reinhardt": ">=0.4",
+        "ringo-sqlstore": ">=0.6.0",
+        "ringo-telegram": ">=0.0.1",
+        "ringo-xom": ">=0.1.0"
+    },
+    "engines": {
+        "ringojs": ">=0.12"
+    },
+    "main": "./main.js"
+}
